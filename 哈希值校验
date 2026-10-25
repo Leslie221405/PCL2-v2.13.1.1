@@ -1,0 +1,12 @@
+Plain Craft Launcher 2.exe的哈希值
+---
+30eb93c62fc51ede0898648e67455478a3d5a4f279938ae65aec77b84cb9703f
+---
+Plain Craft Launcher 2.zip的哈希值
+---
+502a91310ce6b2ef11fd2b52bc2bf82d4810f020547b17b1ae967d189fc78212
+---
+解压出的exe文件的哈希值应与“Plain Craft Launcher 2.exe的哈希值”一致
+
+*可以通过cmd校验本仓库中exe文件哈希值。
+certutil -hashfile "你的文件路径" SHA256
